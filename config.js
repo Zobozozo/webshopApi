@@ -1,6 +1,6 @@
 const config = {
   user: 'zobozozo',
-  password: 'Zozocool12',
+  password: 'React123',
   server: 'abidin.database.windows.net',
   database: 'WebShop',
 }
